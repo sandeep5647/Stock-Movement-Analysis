@@ -1,0 +1,5 @@
+praw
+pandas
+numpy
+textblob
+scikit-learn
