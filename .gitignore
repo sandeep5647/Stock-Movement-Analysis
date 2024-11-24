@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore directories
+__pycache__/
+.vscode/
+
+# Ignore sensitive files
+secrets.json
+
+# Ignore environment variables
+.env
